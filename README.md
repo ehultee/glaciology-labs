@@ -1,5 +1,5 @@
 # glaciology-labs
-[![DOI](https://zenodo.org/badge/92973544.svg)](https://zenodo.org/badge/latestdoi/92973544)
+[![DOI](https://zenodo.org/badge/399246823.svg)](https://zenodo.org/badge/latestdoi/399246823)
 
 
 Lab notebooks based on OGGM-Edu resources, developed for GEOL362, Glaciology, at Middlebury College.
